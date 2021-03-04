@@ -1,4 +1,4 @@
-## Connector and Cable types
+## 3.12 Connector and Cable types
 
 
 - Copper ethernet cables come in two types; straight-through and crossover.

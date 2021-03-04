@@ -1,4 +1,4 @@
-## CCNA Networking Fundamentals Course
+## 3.08 CCNA Networking Fundamentals Course
 ### Course tutor: David Bombal, Udemy
 
 &nbsp;
@@ -6,16 +6,16 @@
 
 ## What is a Network?
 
-- **Computer Network**:
+- *Computer Network*:
         digital telecommunications network for sharing resources between nodes,
         which are computing devices, which share a common telecommunications
         technology,  e.g. printer, file sharing
 
-- **Sneakernet**:
+- *Sneakernet*:
         Walking from one computing device to another with the data to be shared
         on a portable data storage device. (humorous)
 
-- **Basic Network**:
+- *Basic Network*:
   Copper wires, ethernet cables, coaxial cable, optical (fibre optic)
   cable,
   radio waves; wireless, wifi, bluetooth
@@ -23,26 +23,26 @@
 
 ## What is a Server?
 
-- A **Server** is a computer program or computing device that provides functionality to other
+- A *Server* is a computer program or computing device that provides functionality to other
   programs or devices, called 'clients'.
 
 
 ## What is a Client?
 
-- A **Client** is a piece of computer hardware or computer software that accesses a
+- A *Client* is a piece of computer hardware or computer software that accesses a
   service made available by a server.
 
 
 ## What is an NIC?
 
-- A **Network Interface Controller** (also know as a network interface card,
+- A *Network Interface Controller* (also know as a network interface card,
   network adapter, LAN adapter, or physical network interface), is a computer
   hardware component that connects a computer to a computer network.
 
 
 ## What is a MAC address?
 
-- A **Media Access Control** address (MAC address) is a unique identifier
+- A *Media Access Control* address (MAC address) is a unique identifier
   assigned to a network interface controller (NIC) for use as a network address
   in communications within a network segment, common in most IEEE 802
   networking technologies (Ethernet, Wifi, Bluetooth).
@@ -163,7 +163,7 @@
 
 ## What is a Router?
 
-- A **Router** is a networking device that forwards data packets between computer
+- A _router_ is a networking device that forwards data packets between computer
   networks.
 
 - Routers perform the traffic directing functions on the internet.
@@ -181,7 +181,7 @@
 
 ## What is a LAN?
 
-- A **Local Area Network** (LAN) is a computer network that interconnects computers
+- A _Local Area Network_ (LAN) is a computer network that interconnects computers
    and computing devices within a limited area such as a residence, an
    educational institution, or office building, etc.
 
@@ -191,7 +191,7 @@
 
 ## What is a WAN?
 
-- A **Wide Area Network** (WAN) is a telecommunications network that extends over
+- A _Wide Area Network_ (WAN) is a telecommunications network that extends over
   a large geographical area for the primary purpose of computer networking.
 
 - The textbook definition of a WAN is a computer network spanning regions,
@@ -200,7 +200,7 @@
 
 ## What is a Firewall?
 
-- A **Firewall** is a network security system that monitors and controls the
+- A _Firewall_ is a network security system that monitors and controls the
   incoming and outgoing network traffic based on predetermined security rules.
 
 - A firewall typically establishes a barrier between a trusted internal network
@@ -218,7 +218,7 @@
 
 ## What is an IDS?
 
-- An **Intrusion detection system** (IDS) is a device or software application that
+- An _Intrusion detection system_ (IDS) is a device or software application that
   monitors a network or systems for malicious activity or policy violations.
 
 - Any intrusion activity or violation is typically reported either to an
@@ -228,7 +228,7 @@
 
 ## What is an IPS?
 
-- **Intrusion prevention systems** (IPS), also known as Intrusion detection and
+- _Intrusion prevention systems_ (IPS), also known as Intrusion detection and
   prevention systems (IDPS), are network security appliances that monitor
   network or system activities for malicious activity.
 
