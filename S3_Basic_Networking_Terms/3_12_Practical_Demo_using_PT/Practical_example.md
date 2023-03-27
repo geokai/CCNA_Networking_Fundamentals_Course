@@ -4,10 +4,10 @@
 ### MAC Addresses
 
 1. MAC addresses are primarily assigned by device manufacturers, and are
-   therefore often refered to as the _burned-in_ address, or as an Ethernet
+   therefore often referred to as the _burned-in_ address, or as an Ethernet
    hardware address, hardware address, and physical address.
 
-2. Each address can be stored in hardware, such as th cards' read-only memory,
+2. Each address can be stored in hardware, such as the cards' read-only memory,
    or by a firmware mechanism.
 
 3. In Packet Tracer, the MAC address of network interface cards can be changed.
@@ -31,5 +31,6 @@
 2. In the absence of a DHCP server, a computer needs to be manually assigned an
    IP address, or it can use a special link local IP address to allow
    communication on the local network.
+
                                                                 * Wikipedia
 

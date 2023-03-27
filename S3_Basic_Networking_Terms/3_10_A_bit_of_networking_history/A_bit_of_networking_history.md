@@ -36,11 +36,11 @@
 
 3. Next came the copper twisted pair cables, cat-5 and cat-6, optical cables,
    and wireless connectivity.
-   Cat-5 utp consists of four pairs of twisted copper wire terminating in a RJ45
+   Cat-5 utp consists of four pairs of twisted copper wire terminating in an RJ45
    connector.
    Cat-6 is the shielded version of cat-5. Each twisted pair is shielded, then
-   the a further shielding is used around the pairs, and the RJ45 connector is
-   also shielded. This alows the cable to handle higher transfer rate of data.
+   a further shielding is used around the pairs, and the RJ45 connector is
+   also shielded. This allows the cable to handle a higher transfer rate of data.
    All forms of connectivity methods require a network interface card which has
-   a _burnt-in_ unique identification number known as a MAC address. This
+   a _burnt-in_ unique identification number known as a *MAC* address. This
    unique id is used for addressing within the network telecommunications system.

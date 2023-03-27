@@ -3,7 +3,7 @@
 
 ### What is a Server?
 
-- In computing, a server is a computer program or a divice that provides
+- In computing, a server is a computer program or a device that provides
   functionality for other programs or devices, called "clients".
 
 - This architecture is called the client-server model, and a single overall
@@ -14,7 +14,7 @@
 
 ### What is a Client?
 
-- A client is a piece of computing hardware or software that accesses a sevice
+- A client is a piece of computing hardware or software that accesses a service
   made available by a server.
 
 - The server is often on another computer system, in which case the client
